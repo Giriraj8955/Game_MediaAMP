@@ -79,7 +79,7 @@ const GamesNavbar = ({ onSearch }) => {
       >
         <Container>
           <Navbar.Brand as={Link} to="/" className="d-flex align-items-center">
-            <span className="fw-bold fs-4"><i class="bi bi-controller"></i>  MediaAMP</span>
+            <span className="fw-bold fs-4"><i class="bi bi-controller"></i>  GamesHub</span>
           </Navbar.Brand>
           
           <Navbar.Toggle 
